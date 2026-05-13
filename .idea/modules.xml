@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-primeiro_projeto/01-primeiro_projeto.iml" filepath="$PROJECT_DIR$/01-primeiro_projeto/01-primeiro_projeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-scanner/02-scanner.iml" filepath="$PROJECT_DIR$/02-scanner/02-scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-funcoes-matematicas/03-funcoes-matematicas.iml" filepath="$PROJECT_DIR$/03-funcoes-matematicas/03-funcoes-matematicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-operadores-condicoes-if-else/04-operadores-condicoes-if-else.iml" filepath="$PROJECT_DIR$/04-operadores-condicoes-if-else/04-operadores-condicoes-if-else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-operadores-acumulativo/05-operadores-acumulativo.iml" filepath="$PROJECT_DIR$/05-operadores-acumulativo/05-operadores-acumulativo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-switch-case/06-switch-case.iml" filepath="$PROJECT_DIR$/06-switch-case/06-switch-case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-condicional-ternaria/07-condicional-ternaria.iml" filepath="$PROJECT_DIR$/07-condicional-ternaria/07-condicional-ternaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-estrutura-repetitiva-while/08-estrutura-repetitiva-while.iml" filepath="$PROJECT_DIR$/08-estrutura-repetitiva-while/08-estrutura-repetitiva-while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-estrutura-repetitiva-for/09-estrutura-repetitiva-for.iml" filepath="$PROJECT_DIR$/09-estrutura-repetitiva-for/09-estrutura-repetitiva-for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-estrutura-repetitiva-do-while/10-estrutura-repetitiva-do-while.iml" filepath="$PROJECT_DIR$/10-estrutura-repetitiva-do-while/10-estrutura-repetitiva-do-while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-operadores-bitwise/11-operadores-bitwise.iml" filepath="$PROJECT_DIR$/11-operadores-bitwise/11-operadores-bitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-funcoes-para-string/12-funcoes-para-string.iml" filepath="$PROJECT_DIR$/12-funcoes-para-string/12-funcoes-para-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-operacao-split/13-operacao-split.iml" filepath="$PROJECT_DIR$/13-operacao-split/13-operacao-split.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-comecando-POO/14-comecando-POO.iml" filepath="$PROJECT_DIR$/14-comecando-POO/14-comecando-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-estoque-produtos/15-estoque-produtos.iml" filepath="$PROJECT_DIR$/15-estoque-produtos/15-estoque-produtos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-retangulo-medidas/16-retangulo-medidas.iml" filepath="$PROJECT_DIR$/16-retangulo-medidas/16-retangulo-medidas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-salario-funcionario/17-salario-funcionario.iml" filepath="$PROJECT_DIR$/17-salario-funcionario/17-salario-funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-nota-final/18-nota-final.iml" filepath="$PROJECT_DIR$/18-nota-final/18-nota-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-radius/19-radius.iml" filepath="$PROJECT_DIR$/19-radius/19-radius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20-price-dollar/20-price-dollar.iml" filepath="$PROJECT_DIR$/20-price-dollar/20-price-dollar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-estoque-produtos-construtor/21-estoque-produtos-construtor.iml" filepath="$PROJECT_DIR$/21-estoque-produtos-construtor/21-estoque-produtos-construtor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22-account-bank/22-account-bank.iml" filepath="$PROJECT_DIR$/22-account-bank/22-account-bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23-altura-array/23-altura-array.iml" filepath="$PROJECT_DIR$/23-altura-array/23-altura-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-product-array/24-product-array.iml" filepath="$PROJECT_DIR$/24-product-array/24-product-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25-negativos-vetores/25-negativos-vetores.iml" filepath="$PROJECT_DIR$/25-negativos-vetores/25-negativos-vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26-soma-vetor/26-soma-vetor.iml" filepath="$PROJECT_DIR$/26-soma-vetor/26-soma-vetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27-alturas-vetores/27-alturas-vetores.iml" filepath="$PROJECT_DIR$/27-alturas-vetores/27-alturas-vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28-numeros-pares-vetores/28-numeros-pares-vetores.iml" filepath="$PROJECT_DIR$/28-numeros-pares-vetores/28-numeros-pares-vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29-soma-vetores/29-soma-vetores.iml" filepath="$PROJECT_DIR$/29-soma-vetores/29-soma-vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30-media-vetores/30-media-vetores.iml" filepath="$PROJECT_DIR$/30-media-vetores/30-media-vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31-projeto-array/31-projeto-array.iml" filepath="$PROJECT_DIR$/31-projeto-array/31-projeto-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Curso Java.iml" filepath="$PROJECT_DIR$/.idea/Curso Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeto-6modulos/projeto-6modulos.iml" filepath="$PROJECT_DIR$/projeto-6modulos/projeto-6modulos.iml" />
+    </modules>
+  </component>
+</project>
